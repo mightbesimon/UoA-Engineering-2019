@@ -1,4 +1,4 @@
-# UoA Engineering ENGGEN 131
+# UoA Engineering ENGGEN 131 #
 
 **Semester 2 2019**
 
@@ -6,14 +6,14 @@ these are just my sample codes, if you misuse them its *not my problem*\
 some of these do not work for the labs anymore bc i played around with them so much\
 but i cbf going back and fixing them
 
-### Resources Included
+### Resources Included ###
 
 - MATLAB labs
 - MATLAB project 2019
 - C labs
 - C project 2019
 
-### Prerequisites
+### Prerequisites ###
 
 You will need to install
 * [MATLAB](https://www.mathworks.com/downloads/) - for MATLAB in weeks 1-6
@@ -28,15 +28,18 @@ to check if already installed, do:
 $ gcc --version
 ```
 
-### Compiling
+### Compiling ###
 
 You will need to compile .c source files\
 on mac:
 ```
-gcc -o binaryFile sourceFile.c
-./binaryFile
+$ gcc -o binaryFile sourceFile.c
+$ ./binaryFile
 ```
 
+can't help you if ya on windows sry
+
+#### Set Up MATLAB Alias ####
 
 although you do not need to compile for matlab\
 if you want to avoid matlab's cancerous IDE and have a python-like experience\
@@ -54,18 +57,18 @@ $ matlab
 ```
 this way you can use matlab in terminal (like python) instead of the pretty cancerous IDE
 
-## Authors
+## Authors ##
 
 - **Simon** - *buy my merch* - [mightbesimon](https://github.com/mightbesimon/)
 
 Shoutout to Peter Beir, Colin Simpson, Paul Denny and everyone in Uoa Engineering 2019\
 Shoutout to Sublime Text
 
-## License
+## License ##
 
 go crazy, idc
 
-## Acknowledgments
+## Acknowledgments ##
 
 - **these are just my sample codes, if you misuse them its not my problem**
 - array indexing should start at 0 dumbass matlab
