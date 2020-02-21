@@ -39,7 +39,7 @@ gcc -o binaryFile sourceFile.c
 
 
 although you do not need to compile for matlab\
-if you want to avoid matlab's cancerous IDE and have a python-like experience
+if you want to avoid matlab's cancerous IDE and have a python-like experience\
 there is a way to run scripts in terminal without lauching matlab\
 using this command `/Applications/MATLAB_R2019a.app/bin/matlab -nodesktop -nosplash`
 
